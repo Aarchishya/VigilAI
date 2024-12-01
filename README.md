@@ -46,7 +46,7 @@ fatigue_detection/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/fatigue_detection.git
+git clone https://github.com/Aarchishya/VigilAI.git
 cd fatigue_detection
 ```
 
